@@ -1,0 +1,4 @@
+# Query: //.*|#.*|/\\*[\\s\\S]*?\\*/|<!--[\\s\\S]*?-->\\n
+# Flags: RegExp
+# ContextLines: 1
+
